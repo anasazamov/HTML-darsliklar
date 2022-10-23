@@ -1,2 +1,0 @@
-# Anasxon
-telegram bot
